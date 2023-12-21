@@ -9,10 +9,10 @@ HTTP was originally proposed in 1989 by Tim Berners-Lee, who was a coauthor of t
 ### Versions Of HTTP
 
 - HTTP/0.9–1991-Obsolete
-+ HTTP/1.0–1996-Obsolete
-* HTTP/1.1–1997-Standard
+- HTTP/1.0–1996-Obsolete
+- HTTP/1.1–1997-Standard
 - HTTP/2–2015-Standard
-+ HTTP/3–2022-Standard
+- HTTP/3–2022-Standard
 
 ## HTTP1.1 vs HTTP2
 
