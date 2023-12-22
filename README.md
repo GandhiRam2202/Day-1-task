@@ -7,7 +7,7 @@
 [Objects](https://medium.com/@gandhiramparthi/objects-and-its-internal-representation-in-javascript-da0582bc5b46)
 
 
-# -----------------------------------------------------------------------------------------------------
+# -------------------------------------------------------
 
 # 1.Write a blog on Difference between HTTP1.1 vs HTTP2
 
@@ -46,7 +46,7 @@ HTTP 1.1 is speaking in ***plain text*** “Hi dude How are you” but with HTTP
 + While HTTP 1.1 will likely be around for a while, the future belongs to HTTP 2. If you’re a website owner, upgrading to HTTP 2 is a no-brainer. For users, it translates to a faster, more enjoyable web experience. So, the next time you’re online, remember the silent workhorse behind the scenes, HTTP 2, ensuring your web journey is swift and smooth!
 
 
-# -----------------------------------------------------------------------------------------------------
+# -------------------------------------------------------
 
 # 2.Write a blog about objects and its internal representation in Javascript
 
